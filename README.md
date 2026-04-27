@@ -117,3 +117,4 @@ This project demonstrates how SOC teams can automate alert triage, enrichment, a
 ## 👨‍💻 Author
 
 Abhinay Dasi
+abhinaydasi5983@gmail.com
